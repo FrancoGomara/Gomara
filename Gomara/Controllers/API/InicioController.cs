@@ -14,7 +14,7 @@ namespace Gomara.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Se Inicia el Proyecto Gomara.API";
+            return "Se Inicia el Proyecto Gomara.API"; 
         }
     }
 }
